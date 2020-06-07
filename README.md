@@ -5,3 +5,5 @@ The Problem Statement contains 3 parts:
 1. Disk Virtualization (Consolidation & Partitioning)
 2. Disk Virtualization : Block Replication
 3. Disk Virtualization : SnapShoting
+
+Detailed Problem statement mentioned in Disk_Virtualisation_Problem_Statement.pdf
